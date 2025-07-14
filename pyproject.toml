@@ -1,0 +1,7 @@
+[project]
+name = "fdtd"
+version = "0.1.0"
+description = "A python project for Electromagnetic Simulation using FDTD"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
